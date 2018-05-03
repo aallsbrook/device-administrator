@@ -1,0 +1,13 @@
+{
+    "allow_certificate_auth": false,
+    "allow_key_auth": true,
+    "amps": 5,
+    "certificate": null,
+    "description": null,
+    "enabled": true,
+    "manufacture": "Duracell2",
+    "name": "pump101-battery",
+    "state": "",
+    "type": "battery",
+    "voltage": 124
+}
