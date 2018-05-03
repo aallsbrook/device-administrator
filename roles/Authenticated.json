@@ -1,0 +1,140 @@
+{
+    "Description": "Default role that is applied to all authenticated users",
+    "ID": "Authenticated",
+    "Name": "Authenticated",
+    "Permissions": {
+        "AllCollections": {
+            "Level": 0
+        },
+        "AllServices": {
+            "Level": 0
+        },
+        "CodeServices": [
+            {
+                "Level": 0,
+                "Name": "AddColumnsToDeviceTable",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            },
+            {
+                "Level": 0,
+                "Name": "AddNewDeviceType",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            },
+            {
+                "Level": 1,
+                "Name": "AddNewTypeForDevice",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            },
+            {
+                "Level": 1,
+                "Name": "DeleteMessageFromHistory",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            },
+            {
+                "Level": 1,
+                "Name": "GetAllUsersForSystem",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            },
+            {
+                "Level": 1,
+                "Name": "GetDeviceColumns",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            },
+            {
+                "Level": 1,
+                "Name": "GetTypeSchema",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            },
+            {
+                "Level": 1,
+                "Name": "NewTypeForDevice",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            },
+            {
+                "Level": 1,
+                "Name": "PublishMessageToTopic",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            },
+            {
+                "Level": 1,
+                "Name": "UpdateDevice",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            },
+            {
+                "Level": 0,
+                "Name": "UpdateDeviceTypeSchema",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            },
+            {
+                "Level": 0,
+                "Name": "fetchMesageHistoryForDevice",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            }
+        ],
+        "Collections": [
+            {
+                "Columns": [],
+                "ID": "86a8d3ae0bb2ebd1d2bbbfddef5e",
+                "Items": [],
+                "Level": 7,
+                "Name": "DeviceTypes"
+            },
+            {
+                "Columns": [],
+                "ID": "c6ddd8ae0b88bbc190c7bdb2d48301",
+                "Items": [],
+                "Level": 7,
+                "Name": "c6ddd8ae0b88bbc190c7bdb2d48301"
+            },
+            {
+                "Columns": [],
+                "ID": "eed7f1ad0bc8bfdce1a6b6a489b601",
+                "Items": [],
+                "Level": 7,
+                "Name": "eed7f1ad0bc8bfdce1a6b6a489b601"
+            }
+        ],
+        "Deployments": {
+            "Level": 0
+        },
+        "DevicesList": {
+            "Level": 5
+        },
+        "EdgesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 15
+        },
+        "Portals": [
+            {
+                "Level": 7,
+                "Name": "TryingVisualizations",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            },
+            {
+                "Level": 0,
+                "Name": "devadm Device Administrator",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            },
+            {
+                "Level": 1,
+                "Name": "deviceAdministrator",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            }
+        ],
+        "Push": {
+            "Level": 0
+        },
+        "Timers": {
+            "Level": 0
+        },
+        "Topics": [],
+        "Triggers": {
+            "Level": 0
+        },
+        "UsersList": {
+            "Level": 1
+        }
+    }
+}
