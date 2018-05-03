@@ -1,0 +1,102 @@
+{
+    "Description": "",
+    "ID": "bee6d8ae0b82948de5bed8bbe7b801",
+    "Name": "devadm PortalEditor",
+    "Permissions": {
+        "AllCollections": {
+            "Level": 0
+        },
+        "AllServices": {
+            "Level": 0
+        },
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "devadmGetAllUsers",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            },
+            {
+                "Level": 1,
+                "Name": "devadmMessageUtil",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            },
+            {
+                "Level": 0,
+                "Name": "devadmSetup",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            },
+            {
+                "Level": 1,
+                "Name": "devadmTypeUtil",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            },
+            {
+                "Level": 1,
+                "Name": "devadmUpdateDevice",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            }
+        ],
+        "Collections": [
+            {
+                "Columns": [],
+                "ID": "88a8d3ae0bc8c7a4c2f9a3d18e70",
+                "Items": [],
+                "Level": 15,
+                "Name": "devadm_device_types"
+            },
+            {
+                "Columns": [],
+                "ID": "c8ddd8ae0bc2b6d5c0a6beb7c0d601",
+                "Items": [],
+                "Level": 15,
+                "Name": "devadm_device_types"
+            },
+            {
+                "Columns": [],
+                "ID": "fae2d8ae0bb4cfd2e8f4f1ffc6d201",
+                "Items": [],
+                "Level": 15,
+                "Name": "devadm_device_types"
+            },
+            {
+                "Columns": [],
+                "ID": "bee6d8ae0be2a68ff1d887b8d69701",
+                "Items": [],
+                "Level": 15,
+                "Name": "devadm_device_types"
+            }
+        ],
+        "Deployments": {
+            "Level": 0
+        },
+        "DevicesList": {
+            "Level": 15
+        },
+        "EdgesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 9
+        },
+        "Portals": [
+            {
+                "Level": 5,
+                "Name": "devadm Device Administrator",
+                "SystemKey": "bce6d8ae0bd0a8ad83e9f6ec885f"
+            }
+        ],
+        "Push": {
+            "Level": 0
+        },
+        "Timers": {
+            "Level": 0
+        },
+        "Topics": [],
+        "Triggers": {
+            "Level": 0
+        },
+        "UsersList": {
+            "Level": 1
+        }
+    }
+}
