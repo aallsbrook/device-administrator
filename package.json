@@ -1,0 +1,34 @@
+{
+    "author": {
+        "email": "aaron@clearblade.com"
+    },
+    "clouds": [],
+    "description": "The device administrator allows for end users to manage device types and schemas within a solution, provides device add, edit, update, and delete capability, and allows for sending as, receiving from and deleting historical messages on status and control.",
+    "domains": [],
+    "gateways": [],
+    "image_url": "https://i.imgur.com/rrv4YNo.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform",
+        "device",
+        "administration",
+        "message",
+        "sensor",
+        "management",
+        "monitor",
+        "custom",
+        "schema"
+    ],
+    "license": "MIT",
+    "name": "device-administrator",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [
+        "mqtt"
+    ],
+    "things": [
+        "sensor"
+    ],
+    "version": "1.0.0"
+}
