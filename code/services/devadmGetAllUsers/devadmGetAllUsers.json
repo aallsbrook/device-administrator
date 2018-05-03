@@ -1,0 +1,13 @@
+{
+    "current_version": 1,
+    "dependencies": "clearblade",
+    "logging_enabled": "false",
+    "name": "devadmGetAllUsers",
+    "params": [],
+    "permissions": {
+        "devadm PortalEditor": 1,
+        "devadm User": 1
+    },
+    "run_user": "",
+    "source": "devadmGetAllUsers.js"
+}
