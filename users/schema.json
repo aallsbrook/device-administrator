@@ -1,0 +1,8 @@
+{
+    "columns": [],
+    "permissions": {
+        "Authenticated": 1,
+        "devadm PortalEditor": 1,
+        "devadm User": 1
+    }
+}
