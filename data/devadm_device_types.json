@@ -1,0 +1,33 @@
+{
+    "app_id": "bce6d8ae0bd0a8ad83e9f6ec885f",
+    "collection_id": "bee6d8ae0be2a68ff1d887b8d69701",
+    "items": [
+        {
+            "item_id": "50369eda-853d-46ae-ada0-019e76d0f27f",
+            "schema": "{\"amps\":\"int\",\"manufacture\":\"string\",\"voltage\":\"float\"}",
+            "type": "battery"
+        }
+    ],
+    "name": "devadm_device_types",
+    "permissions": {
+        "devadm PortalEditor": 15,
+        "devadm User": 15
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "type",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "schema",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}
