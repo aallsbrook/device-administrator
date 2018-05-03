@@ -1,0 +1,19 @@
+{
+    "columns": [
+        {
+            "ColumnName": "amps",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "manufacture",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "voltage",
+            "ColumnType": "float",
+            "PK": false
+        }
+    ]
+}
