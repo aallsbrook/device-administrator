@@ -11,25 +11,34 @@ This is an ipm package, which contains one or more reusable assets within the ip
 
 ## Setup
 
-_Add any setup instructions, such as an API Key_
+1. Modify the library called devadm_constants to include the platform url you are using
+2. Save and Test the service called devadmSetup to create the user@clearblade.com and devadm_portaleditor@clearblade.com user
 
-## API
-
-_Document your API here_
 
 ## Usage
 
-_Describe assets_
+Begin by opening the portal devadm Device Administration and log in as user@clearblade.com  From the portal view select devices in the menu flyout and edit them as needed.
 
 ### Code Services
 
+- devadmGetAllUsers		
+- devadmMessageUtil		
+- devadmSetup		
+- devadmTypeUtil		
+- devadmUpdateDevice		
+
 ### Code Libraries
+
+- devadm_constants		
+- devadm_util_lib
 
 ### Portals
 
+devadm Device Administration
+
 ### Collections
 
-### ...
+devadm_device_types
 
 ## Thank you
 
