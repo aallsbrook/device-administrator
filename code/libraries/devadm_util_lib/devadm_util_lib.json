@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "devadm_constants",
+    "description": "This library has utility functions for the device administrator",
+    "name": "devadm_util_lib",
+    "version": 1,
+    "visibility": "system"
+}
