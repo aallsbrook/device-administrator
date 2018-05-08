@@ -6,7 +6,7 @@
     "description": "The device administrator allows for end users to manage device types and schemas within a solution, provides device add, edit, update, and delete capability, and allows for sending as, receiving from and deleting historical messages on status and control.",
     "domains": [],
     "gateways": [],
-    "image_url": "https://i.imgur.com/rrv4YNo.png",
+    "image_url": "https://i.imgur.com/hp2dkGz.png",
     "keywords": [
         "clearblade",
         "iot",
